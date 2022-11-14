@@ -1,6 +1,10 @@
 welcome to my profile
 
-i have created this repository just to explain basic of git
+i have created this repository just to explain basics of git
+
+pizza
+starbucks
+
 
 
 Thank You
